@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "551226427910",
+    "project_id": "starbhakpiket",
+    "storage_bucket": "starbhakpiket.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551226427910:android:3271ac5ba5a35d1ec79187",
+        "android_client_info": {
+          "package_name": "com.example.starbhakpiket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551226427910-m7hcgqcb3riur5smdkdmhpi19k10ikk9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.starbhakpiket",
+            "certificate_hash": "659a56bd22d16ca915d1a70de4cbc0ff4fc25fa1"
+          }
+        },
+        {
+          "client_id": "551226427910-vcoi0o5cak7ikbvbnb1aqrv4rgdudjjm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRhr22eJIzcMinh3BFm0PMFaJhczEu0Wk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551226427910-28e70p66vostvvmpft9d23pn8mipg06v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
